@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Fecha Corta: " + t.getFf().format(tiempocorto));
 
         //Clase No Anémica
-        System.out.println("Tiempo no anemico corto: " + tn.TiempoCorto());
-        System.out.println("Tiempo no anemico completo: " + tn.TiempoLargo());
+        System.out.println("Tiempo no anemico corto: " + tn.tiempoCorto());
+        System.out.println("Tiempo no anemico completo: " + tn.tiempoLargo());
     }
 }
